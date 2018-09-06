@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : Ackerman.cpp
+// Name        : Ackermann.cpp
 // Author      : Sajit Gurubacharya
 // Version     : 1.0
 // Description : Ackerman Function
